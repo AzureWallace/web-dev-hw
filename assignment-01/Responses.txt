@@ -1,7 +1,8 @@
-How is the web different than the Internet?
+1. How is the web different than the Internet?
   The internet is what connects the device you are using to the other device/server that you are trying to reach while the    web is the platform on which you are searching on. For example when I get online to check my Moodle page the Internet is what connects my computer to the school's server and the platform (google, explorer, firefox, etc) is the web.
-Briefly describe how the internet works.
+2. Briefly describe how the internet works.
   A user will go onto the Internet and when this happens their network becomes linked with the Internet and then when you search for a webpage the Internet connects to the webpages network to connect the user to the webpage.
-What is a directory, and what is its relationship to files?
+3. What is a directory, and what is its relationship to files?
   A directory is a place where all the files and folders are organized into one area that makes it easy for the user to find. A directory can make up of multiple folders all containing one to many files.
-Why is using a VCS beneficial?
+4. Why is using a VCS beneficial?
+  VCS is useful becasue it will save the structure of the code and makes it easier to use when multiple people are using the code.
