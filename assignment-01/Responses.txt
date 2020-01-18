@@ -1,8 +1,10 @@
 1. How is the web different than the Internet?
-  The internet is what connects the device you are using to the other device/server that you are trying to reach while the    web is the platform on which you are searching on. For example when I get online to check my Moodle page the Internet is what connects my computer to the school's server and the platform (google, explorer, firefox, etc) is the web.
+  The Internet connects users while the web connects information. The internet is what connects your device/network to other networks while the web is the information that is then displayed and stored.
 2. Briefly describe how the internet works.
-  A user will go onto the Internet and when this happens their network becomes linked with the Internet and then when you search for a webpage the Internet connects to the webpages network to connect the user to the webpage.
+  A user get on their laptop and their network interface card goes through their internet service providers servers which are directly connected to the wire that is the Internet. The user puts in a website this website will get broken down into pieces and your computer will check the pieces for any damaged information. The pieces will be reassembled and find the correct router to place the information. The websites server and the users’ server is connected. 
 3. What is a directory, and what is its relationship to files?
   A directory is a place where all the files and folders are organized into one area that makes it easy for the user to find. A directory can make up of multiple folders all containing one to many files.
 4. Why is using a VCS beneficial?
-  VCS is useful becasue it will save the structure of the code and makes it easier to use when multiple people are using the code.
+  You can track the changes that you have made to your work and if you created something that didn't work you can always revert back to a previous version that was working. It is easy to share with other people when working on a gorup project or when needing help.
+
+
