@@ -1,2 +1,8 @@
-Add some content in "responses.txt". You'll notice a little blue dot on the file's tab.
-This means you have unsaved changes to that file
+6. Briefly describe one way how data travels on the internet?
+  Data can travel by light which is really fiber optic cables. These are popular because they can go long distances such as international and is what makes global communication effective. These fiber optic cables are in the ground and the ocean all over the world. When data travels over the internet it chooses the best route (cable) to take in order to get to the end destination.
+7. What is the relationship between an IP address and the DNS?
+  The IP address is a set of numbers that the client inputs to get to the website. Since IP addresses are a long set of numbers it is easier to search by the Domain Naming System. So instead of putting 1152.854.645.254 users can enter my.umt.edu. The DNS is an easier way for users to find a particular sight but the DNS is directly linked to the IP address. The domain name is also unique.
+8. What is a cookie?
+  A cookie is a packet with pieces of information that is stored so the internet/website can better recommend ads, products, services, etc.
+9. List the three basic parts of a URL?
+  Protocol, Domain and Path
