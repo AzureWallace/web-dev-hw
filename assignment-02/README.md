@@ -8,6 +8,8 @@ I decided to take this class because web design has been something that always i
 2. Creating full functionality and ease of accessibility
 3. Maintaing and updating the website properly without causing error to website
 
+[Univesity of Montana Student](http://my.umt.edu/students)
+
 [My Responses](./responses.txt)
 
-![My Screenshot](./images/Screenshot-A02.png)
+![My Screenshot](./images/Screenshot-A02.PNG)
