@@ -1,0 +1,3 @@
+13.
+14. Text is best used for open answered questions, comments and concerns is a good example of when text is best used. Selection is best used if there are predetermined answers already set. A good example would be a question of gender or age where there would be radio buttons and only one option is correct. The button element would be best used if the button will be represented by a logo or picture.
+15. I worked on this assignment as I usually do where I begin by reading the chapters and sections to better prepare me for the homework assignment. After I finish reading I begin my assignment referencing the notes that I was took to help me. I also will look at my past homework assignments to help me when I forgot a certain syntax.
