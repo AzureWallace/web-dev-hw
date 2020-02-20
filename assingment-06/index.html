@@ -1,40 +1,75 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en-US">
 <head>
   <meta charset="utf-8">
-  <meta name="description" content="This page will give you an the contact information for Huhot Mongolian Grill restaurant">
+  <meta name="description" content="This page will give you an the contact information for Huhot Mongolian Grill restaurant"/>
   <meta name="author" content="Azure Wallace"
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Assinment-06</title>
+  <style>
+    table, th, td {border: 1px solid black; padding: 5px;}
+  </style>
+  <img src="./images/huhot_logo.png"/>
   <body>
+    <h1>Huhot Mongolian Grill Montana</h1>
+    <address>
+      <h3>223 East Main Street Missoula, Mt 59802</h3>
+      <h3>(406)-251-1232</h3>
+    </address>
+    <p> Contact us with any questions!</p>
+    <a href="mailto: support@huhot.com">Email us here!</a>
+    <br/>
+    <input type="email" name="email" value="support@huhot.com"
+
+    <br/>
     <table>
       <tr>
+        <th scope="col">Location</th>
         <th scope="col">Open Hours</th>
         <th scope="col">Addresses</th>
         <th scope="col">Phone Number</th>
       </tr>
       <tr>
         <th scope="row">Missoula</th>
-        <td>Monday-Sunday - 11:00 AM - 9:00 PM</td>
+        <td>11:00 AM - 9:00 PM</td>
         <td>3521 Brooks St. 59801</td>
         <td>(406)-829-8888</td>
       </tr>
       <tr>
         <th scope="row">Kalispell</th>
-        <td>Monday - Sunday - 11:00 AM - 9:00 PM</td>
+        <td>11:00 AM - 9:00 PM</td>
         <td>130 Hutton Ranch Rd. 59901</td>
         <td>(406)-755-0757</td>
       </tr>
       <tr>
         <th scope="row">Billings</th>
-        <td>Monday - Sunday - 11:00 AM - 9:00 PM</td>
+        <td>11:00 AM - 9:00 PM</td>
         <td>1806 King Avenue W. 59102</td>
         <td>(406)-656-8822</td>
       </tr>
     </table>
-  <<address class="">
-    <h1>
-  </address>
+    <form action="http://www.huthot.com" method="post">
+      <p>Have you ever visited Huhot?</p>
+      <input type="radio" name="visit" value="y"/>Yes
+      <br/>
+      <input type="radio" name="visit" value="n"/>No
+      <br/>
+
+      <p>Which Montana Locations have you visited? if Any.</p>
+      <input type="checkbox" name="location" value="M" checked/>Missoula
+      <input type="checkbox" name="location" value="K"/>Kalispell
+      <input type="checkbox" name="location" value="B"/>Billings
+
+      <p>
+        Comments or Concerns:
+      </p>
+        <textarea name="Comments" id="textarea" cols="20" rows="4" maxlength="500" autofocus>Enter up to 500 characters...</textarea>
+
+      <br/>
+      <input type="image" src="./images/submit_button.jpg" alt="submit button image" width="150" height="50"/>
+
+
+    </form>
   </body>
 </head>
 </html>
