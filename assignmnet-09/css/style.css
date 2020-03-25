@@ -1,0 +1,53 @@
+.container {
+  border-style:solid;
+  border-width:2px;
+  border-color: limegreen;
+  padding: 10px;
+  background: #373E42
+}
+
+h2 {
+  border-style: solid;
+  border-width: 2px;
+  border-color: yellow;
+  Background: #f1f1f1
+  postition: left;
+  color: blue;
+}
+
+p {
+  border-style: solid;
+  border-width: 2px;
+  border-color: hotpink;
+  background: #f1f1f1
+}
+
+Strong, em {
+  border-style: solid;
+  border-width: 2px;
+  border-color: limegreen;
+}
+
+body {
+  background-color: yellow;
+  text-align: center;
+}
+.container {
+  background-color: #FF3778;
+  width: 600px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid black;
+  postion: absolute;
+  color: blue;
+}
+.Fashion {
+  background-color: Green;
+  color: black;
+  font-size: medium;
+  font-family: Arial;
+}
+h2 { /*This changes the text color to blue*/
+  color: blue;
+  background-color: rgb(0,0,0,0.5)
+}
