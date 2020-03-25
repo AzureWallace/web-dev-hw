@@ -1,0 +1,3 @@
+13. The universal selector is used to style every element on the specific page while the element selector is used to select all elements of a certain type and lastly the class selectors select elements that serve the same function.
+14. The decade I chose to use was the 1980's. Therefore, I chose a bright and colorful selection of colors. I chose the colors of hot pink, lime green, and yellow. The hex code I used for hot pink was #FF3778.
+15. I choose the 1980's because I love bright colors. The 1980's was full of bright colors therefore I not only wanted to choose colors and pictures that represented that. I focused specifically on the fashion of the 1980's.
