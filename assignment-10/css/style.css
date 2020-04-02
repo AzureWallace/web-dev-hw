@@ -1,0 +1,51 @@
+.container {
+  border-style:solid;
+  border-width:2px;
+  border-color: blue;
+  padding: 10px;
+  background: ivory;
+font-family: 'Dancing Script', cursive;
+  color: black;
+  text-align: center;
+}
+
+a:link {
+  color:#0404B4 ;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration:none;
+}
+
+a:hover {
+  color: black;
+}
+
+
+.Life {
+  border-style: solid;
+  border-width: 2px;
+  border-color: blue;
+  padding: 10px;
+  background-color: lightblue;
+  color: black;
+  text-align: justify;
+font-family: 'Gotu', sans-serif;
+}
+ p::first-letter {
+  color: blue;
+  font-weight: bold;
+  font-family: 'Dancing Script', cursive;
+}
+
+.title {
+  border-style: none;
+  border-color: none;
+  background-color: none;
+  color: black;
+  text-align: center;
+  font-size: 22pt;
+font-family: 'Dancing Script', cursive;
+}
