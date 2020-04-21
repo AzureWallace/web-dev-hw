@@ -1,0 +1,104 @@
+.banner {
+  width: 100%;
+  height:300px;
+  text-align: center;
+}
+
+.title {
+  color: purple;
+  font-style: italic;
+  font-size: 150%;
+  text-align: center;
+  margin-left: 300px;
+}
+
+.navigation {
+  background-color: #151515;
+  width:300px;
+  height: 100%;
+  position: fixed;
+  top:0;
+  left: 0;
+}
+.navigation a:hover {
+  text-decoration: none;
+  color: white;
+
+}
+.navigation a {
+  color:purple;
+  text-decoration: none;
+  font-size: 150%;
+}
+
+.main {
+    background-color: purple;
+    overflow: auto;
+    margin-left: 300px;
+    padding: 1em;
+}
+
+.main img {
+  background-color: purple;
+  width: 100%;
+  height: auto;
+  float: left;
+}
+
+.main h2 {
+  color: white;
+  font-style: italic;
+  text-align: center;
+  font-size: 150%;
+}
+.site-info {
+margin: 2em auto;
+text-align: center;
+font-size: 50%;
+}
+.logo {
+  background-color: silver;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto 1em auto;
+  border: 5px solid black;
+  border-radius:100%;
+  line-height: 150px;
+  text-transform: uppercase;
+  color: purple;
+  text-align: center;
+  font-style: italic;
+}
+.logo:hover {
+  border: 5px solid purple;
+}
+.site-info a:hover {
+  border: 5px solid purple;
+  color: white;
+}
+
+.site-links a:hover {
+  margin-left: 3em;
+}
+.banner {
+  width: 100%;
+  height:300px;
+  text-align: center;
+}
+
+.aboutmessage {
+  background-color: purple;
+  color: white;
+  margin-left: 300px;
+  font-size: 225%;
+}
+
+.form {
+  background-color: #B404AE;
+  width: 75%;
+  height: auto;
+  padding: 1em;
+  margin-left: 300px;
+  overflow: auto;
+  float: left;
+}
