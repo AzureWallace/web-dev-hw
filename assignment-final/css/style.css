@@ -1,0 +1,151 @@
+
+
+.introduction {
+  background-color: green;
+  font-style: italic;
+  color: white;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.introduction h3,h2 {
+  text-align: center;
+}
+.introduction p {
+  font-family: 'Courgette', cursive;
+  color: white;
+}
+.introduction h1 {
+  font-family: 'slabo', sans-serif;
+}
+
+.paragraph p {
+  color: white;
+}
+
+.title {
+  text-align: center;
+}
+menu {
+  padding: 0;
+  margin: 0;
+}
+#site-links {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+#site-links .menu-item {
+  width: 6em;
+  padding: .5em 1em;
+  display: inline-block;
+  background-color: pink;
+  text-align: center;
+}
+#site-links .menu-item:hover {
+  background-color: green;
+  color: white;
+  text-indent: 1em;
+  text-decoration: underline;
+  text-decoration-style: solid;
+}
+#site-links .dropdown {
+  display: inline-block;
+  width: 6em;
+}
+#site-links .dropdown-content {
+  display: none;
+  position: absolute;
+  indent: 1em;
+  background-color: pink;
+  z-index: 5;
+
+}
+#site-links .dropdown-content a {
+  background-color: pink;
+}
+#site-links .dropdown-content a:hover {
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration: solid;
+}
+#site-links .dropdown:hover .dropdown-content {
+display: block;
+}
+#sitelinks .dropdown-item {
+  min-width: 6em;
+  padding: .5em 1em;
+  text-align: center;
+  display: block;
+
+}
+.dropdown-item:hover {
+  background-color: green;
+}
+.main :visited {
+  color: black;
+}
+
+.paragraph {
+  color: white;
+}
+
+.banner {
+  margin-top: 1em;
+  width: 87%;
+  height:300px;
+  text-align: center;
+  margin-left: 3em;
+  margin-right: 0em;
+}
+
+.contact {
+  background-color: green;
+margin-top: 0;
+}
+.email :hover {
+  color: white;
+}
+
+.contact h1 {
+  color: white;
+  font-family: 'slabo', 'Courgette', cursive;
+}
+
+.counties {
+  background-color: #00FFFF;
+  width: 70%;
+  margin-left: 12em;
+
+}
+.counties h3,p {
+  text-indent: 1em;
+  color: #424242;
+}
+.counties iframe {
+  margin-left: 20em;
+  margin-top: 0;
+  padding: 2em;
+}
+
+
+.contact p {
+  color: black;
+}
+
+
+
+.name {
+  text-align: center;
+  color: #00FFFF
+}
+body {
+  background-color: grey;
+}
+a {
+  text-decoration: none;
+}
+iframe:hover {
+  border-color: black;
+}
